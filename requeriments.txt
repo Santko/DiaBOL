@@ -1,0 +1,5 @@
+pandas @ file:///C:/ci/pandas_1632920071836/work
+scikit-learn @ file:///C:/ci/scikit-learn_1622739500535/work
+scipy @ file:///C:/ci/scipy_1630606942584/work
+Pillow==8.4.0
+streamlit==1.2.0
