@@ -1,3 +1,3 @@
 # diabol
 Predictor de Diabetes
-(C) 2022 Santko - Mario Salazar
+2022 Mario Salazar
